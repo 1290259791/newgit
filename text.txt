@@ -1,2 +1,5 @@
 new branch dev
+<<<<<<< HEAD
 lalalal
+=======
+>>>>>>> demo
